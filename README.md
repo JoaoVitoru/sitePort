@@ -8,13 +8,6 @@ Site portfólio pessoal de **João Vitor Nunes**, técnico em Desenvolvimento de
 - JavaScript puro (sem frameworks)
 - Ícones: [Devicon](https://devicon.dev/)
 
-## Como rodar
-Basta abrir o `index.html` no navegador, ou servir a pasta:
-
-```bash
-npx serve .
-```
-
 ## Publicar no GitHub Pages
 1. Envie o repositório para o GitHub.
 2. Em **Settings → Pages**, selecione a branch `main` e a pasta `/ (root)`.
